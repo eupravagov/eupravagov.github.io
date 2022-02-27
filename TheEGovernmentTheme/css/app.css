@@ -5530,7 +5530,7 @@ table.me_person td {
   height: 100%;
   right: 0;
   width: 15px;
-  background: url(../img/totop.svg) no-repeat 0 40%;
+  background: url(https://euprava.gov.rs/TheEGovernmentTheme/img/totop.svg) no-repeat 0 40%;
 }
 .foot-top a:hover:after {
   -webkit-animation-name: scrollTopAnim;
